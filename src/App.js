@@ -6,7 +6,7 @@ import "weather-icons/css/weather-icons.css";
 import Form from "./app_component/form.component";
 
 // api call api.openweathermap.org/data/2.5/weather?q=London,uk
-const API_key = "8395663eeaf4023d6510922bbc880d51";
+const API_key = /* INSERT API HERE */ {};
 
 class App extends React.Component {
   constructor() {
